@@ -4,7 +4,7 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 
 ### Interests
 
-- Machine Learning 
+- Deep Learning
 - Discrete Mathematics 
 - Data Analysis 
 - Table Tennis
@@ -14,6 +14,7 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 - [Game of Life](https://github.com/dungeon-masterRupesh/Game-of-life)
 - [Desktop Buddy](https://github.com/ashish-221b/Hack-U)
 - [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
+- [Railway Controller in VHDL](https://github.com/Naman-ntc/Railway-Controller-FPGA)
 
 
 ### Contact
