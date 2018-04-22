@@ -1,37 +1,25 @@
 ## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/dungeon-masterRupesh/dungeon-masterRupesh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am enrolled currently enrolled in 4 year BTech program (2020). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interests
 
-### Markdown
+- Machine Learning 
+- Discrete Mathematics 
+- Data Analysis 
+- Table Tennis
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects
 
-```markdown
-Syntax highlighted code block
+- [Game of Life](https://github.com/dungeon-masterRupesh/Game-of-life)
+- [Desktop Buddy](https://github.com/ashish-221b/Hack-U)
+- [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
+- Email : rupesh95903@gmail.com, rupesh@cse.iitb.ac.in
 
-**Bold** and _Italic_ and `Code` text
+## Resume
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dungeon-masterRupesh/dungeon-masterRupesh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[here](https://www.cse.iitb.ac.in/~rupesh/Resume.pdf)
