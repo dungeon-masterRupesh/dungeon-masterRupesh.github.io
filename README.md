@@ -11,7 +11,7 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 
 ### Projects
 
-- 
+- Neural Network for Image Processing
 - [Game of Life](https://github.com/dungeon-masterRupesh/Game-of-life)
 - [Desktop Buddy](https://github.com/ashish-221b/Hack-U)
 - [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
