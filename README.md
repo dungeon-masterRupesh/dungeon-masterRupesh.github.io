@@ -4,13 +4,14 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 
 ### Interests
 
+- Big Data Analysis
 - Deep Learning
 - Discrete Mathematics 
-- Data Analysis 
 - Table Tennis
 
 ### Projects
 
+- 
 - [Game of Life](https://github.com/dungeon-masterRupesh/Game-of-life)
 - [Desktop Buddy](https://github.com/ashish-221b/Hack-U)
 - [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
