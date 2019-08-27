@@ -5,7 +5,8 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 ### Interests
 
 - Big Data Analysis
-- Deep Learning
+- Algorithmic Trading
+- Deep Learning [mainly Image Processing]
 - Discrete Mathematics 
 - Table Tennis
 
@@ -17,7 +18,7 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 - [GetSchedGo](https://github.com/ashish-221b/Get-Sched-Go)
 - [Railway Controller in VHDL](https://github.com/Naman-ntc/Railway-Controller-FPGA)
 
-#### [Resume](https://www.cse.iitb.ac.in/~rupesh/Resume.pdf)
+#### [Resume](https://www.cse.iitb.ac.in/~rupesh/Resume2.pdf)
 
 ### Contact
 
