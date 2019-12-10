@@ -35,3 +35,6 @@ I am enrolled currently enrolled in 4 year BTech program (2020).
 ### Contact
 
 - Email : [rupesh95903@gmail.com](mailto:rupesh95903@gmail.com), [rupesh@cse.iitb.ac.in](mailto:rupesh@cse.iitb.ac.in)
+- Medium : [rupeshkumar_9557](https://medium.com/@rupeshkumar_9557)
+- Hackernoon : [rupesh](https://hackernoon.com/@rupesh)
+- Facebook : [rupesh2906](https://www.facebook.com/rupesh2906)
