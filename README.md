@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-I am enrolled currently enrolled in 4 year BTech program in IIT Bombay (2020). 
+I am enrolled currently enrolled in 4 year BTech program in [IIT Bombay](http://www.iitb.ac.in/) in [Computer Science Program](https://www.cse.iitb.ac.in/) (2020). 
 
 ### Interests
 
@@ -38,3 +38,5 @@ I am enrolled currently enrolled in 4 year BTech program in IIT Bombay (2020).
 - Medium : [rupeshkumar_9557](https://medium.com/@rupeshkumar_9557)
 - Hackernoon : [rupesh](https://hackernoon.com/@rupesh)
 - Facebook : [rupesh2906](https://www.facebook.com/rupesh2906)
+
+Check latest version [here](https://rs9899.github.io/)
