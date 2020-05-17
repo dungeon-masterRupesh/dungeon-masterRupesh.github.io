@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-I am enrolled currently enrolled in 4 year BTech program (2020). 
+I am enrolled currently enrolled in 4 year BTech program in IIT Bombay (2020). 
 
 ### Interests
 
